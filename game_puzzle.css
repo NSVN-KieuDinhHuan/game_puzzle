@@ -1,0 +1,16 @@
+img {
+    display: block;
+    margin: 1em;
+
+    box-shadow: 2px 3px 3px black;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+}
+.container-fluid {
+    max-width: 900px;
+}
+img:active {
+    width: 310px;
+    height: 310px;
+}
